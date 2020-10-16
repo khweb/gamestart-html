@@ -15,3 +15,4 @@
 Маркет - http://studiolp.ru/market.html<br>
 <br>
 Тир(список) - http://localhost:3008/shooting-list.html
+Тир(карточка) - http://localhost:3008/shooting-card.html
