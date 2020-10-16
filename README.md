@@ -13,4 +13,5 @@
 Турниры (карточка турнира)-  http://studiolp.ru/tournaments-single.html<br>
 <br>
 Маркет - http://studiolp.ru/market.html<br>
-
+<br>
+Тир(список) - http://localhost:3008/shooting-list.html
