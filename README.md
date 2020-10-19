@@ -16,4 +16,5 @@
 <br>
 Тир(список) - http://localhost:3008/shooting-list.html<br>
 Тир(карточка) - http://localhost:3008/shooting-card.html<br>
-Тир(старт) - http://localhost:3008/shooting-start.html
+Тир(старт) - http://localhost:3008/shooting-start.html<br>
+Тир(ковбои) - http://localhost:3008/shooting-cowboys.html
