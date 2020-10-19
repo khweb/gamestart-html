@@ -18,4 +18,4 @@
 Тир(карточка) - http://localhost:3008/shooting-card.html<br>
 Тир(старт) - http://localhost:3008/shooting-start.html<br>
 Тир(ковбои) - http://localhost:3008/shooting-cowboys.html<br>
-Тир(выиграш) - http://localhost:3012/shooting-win.html<br>
+Тир(выигрыш) - http://localhost:3012/shooting-win.html<br>
