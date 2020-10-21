@@ -14,8 +14,10 @@
 <br>
 Маркет - http://studiolp.ru/market.html<br>
 <br>
-Тир(список) - http://localhost:3008/shooting-list.html<br>
-Тир(карточка) - http://localhost:3008/shooting-card.html<br>
-Тир(старт) - http://localhost:3008/shooting-start.html<br>
-Тир(ковбои) - http://localhost:3008/shooting-cowboys.html<br>
-Тир(выигрыш) - http://localhost:3012/shooting-win.html<br>
+Тир(список) -  http://studiolp.ru/shooting-list.html<br>
+Тир(карточка) -  http://studiolp.ru/shooting-card.html<br>
+Тир(старт) -  http://studiolp.ru/shooting-start.html<br>
+Тир(ковбои) -  http://studiolp.ru/shooting-cowboys.html<br>
+Тир(выигрыш) -  http://studiolp.ru/shooting-win.html<br>
+<br>
+Профиль игрока(в процессе) - http://localhost:3011/profile-skills.html<br>
