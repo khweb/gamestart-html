@@ -20,4 +20,4 @@
 Тир(ковбои) -  http://studiolp.ru/shooting-cowboys.html<br>
 Тир(выигрыш) -  http://studiolp.ru/shooting-win.html<br>
 <br>
-Профиль игрока(в процессе) - http://studiolp.ru/profile-skills.html<br>
+Профиль игрока - http://studiolp.ru/profile-skills.html<br>
