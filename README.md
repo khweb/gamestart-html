@@ -14,12 +14,12 @@
 <br>
 Маркет - http://studiolp.ru/market.html<br>
 <br>
-Тир(список) -  http://studiolp.ru/shooting-list.html<br>
-Тир(карточка) -  http://studiolp.ru/shooting-card.html<br>
-Тир(старт) -  http://studiolp.ru/shooting-start.html<br>
-Тир(ковбои) -  http://studiolp.ru/shooting-cowboys.html<br>
-Тир(выигрыш) -  http://studiolp.ru/shooting-win.html<br>
+Тир (список) -  http://studiolp.ru/shooting-list.html<br>
+Тир (карточка) -  http://studiolp.ru/shooting-card.html<br>
+Тир (старт) -  http://studiolp.ru/shooting-start.html<br>
+Тир (ковбои) -  http://studiolp.ru/shooting-cowboys.html<br>
+Тир (выигрыш) -  http://studiolp.ru/shooting-win.html<br>
 <br>
 Профиль игрока - http://studiolp.ru/profile-skills.html<br>
-Профиль команды(в работе) - http://localhost:3008/profile-team.html<br>
-Профиль команды весь экран(в работе) - http://localhost:3008/profile-team-full.html<br>
+Профиль команды (в работе) - http://localhost:3008/profile-team.html<br>
+Профиль команды весь экран (в работе) - http://localhost:3008/profile-team-full.html<br>
