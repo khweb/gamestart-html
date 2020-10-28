@@ -21,5 +21,5 @@
 Тир (выигрыш) -  http://studiolp.ru/shooting-win.html<br>
 <br>
 Профиль игрока - http://studiolp.ru/profile-skills.html<br>
-Профиль команды (в работе) - http://localhost:3008/profile-team.html<br>
+Профиль команды (в работе) - http://studiolp.ru/profile-team.html<br>
 Профиль команды весь экран (в работе) - http://localhost:3008/profile-team-full.html<br>
