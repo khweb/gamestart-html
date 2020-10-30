@@ -24,4 +24,4 @@
 Профиль команды - http://studiolp.ru/profile-team.html<br>
 Профиль команды весь экран - http://studiolp.ru/profile-team-full.html<br>
 <br>
-Матчи - http://localhost:3012/match.html<br>
+Матчи - http://studiolp.ru/match.html<br>
