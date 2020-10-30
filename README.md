@@ -22,4 +22,4 @@
 <br>
 Профиль игрока - http://studiolp.ru/profile-skills.html<br>
 Профиль команды - http://studiolp.ru/profile-team.html<br>
-Профиль команды весь экран (в работе) - http://localhost:3008/profile-team-full.html<br>
+Профиль команды весь экран - http://studiolp.ru/profile-team-full.html<br>
