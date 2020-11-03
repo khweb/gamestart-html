@@ -25,3 +25,4 @@
 Профиль команды весь экран - http://studiolp.ru/profile-team-full.html<br>
 <br>
 Матчи - http://studiolp.ru/match.html<br>
+Матч (карточка) - http://studiolp.ru/match-single.html<br>
